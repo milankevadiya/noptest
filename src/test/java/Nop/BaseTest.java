@@ -25,7 +25,7 @@ public class BaseTest extends Utils {
 
     public void close()
     {
-    //    driver.quit();
+        driver.quit();
     }
 
 
